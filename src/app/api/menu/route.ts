@@ -56,7 +56,7 @@ const messMenu = {
       "Poori, Dal Aloo Tadka, Steamed Rice, Tomato Pappu, Kara Kuzhambu, Kootu, Aloo Fry, Pickle, Special",
     Snack: "Cake, Brownie\nTea / Coffee",
     Dinner:
-      "Sweet, Malabar Paratha, Meal Maker Curry, Mix Vegetable Sabji, Idiyappam, Kheer, Steamed Rice, Dal Tadka, Rasam, Pickle, Fryums, Veg Salad, Milk, Ice Cream\n*Chicken Gravy*",
+      "Sweet, Malabar Paratha, Meal Maker Curry, Mix Vegetable Sabji, Idiyappam, Kheer, Steamed Rice, Dal Tadka, Rasam, Pickle, Fryums, Veg Salad, Milk,*Chicken Gravy*",
   },
   Sunday: {
     Breakfast: "Bread, Butter, Jam, Chole Poori, Veg Kurma, Coconut Chutney\nTea / Coffee / Milk",
